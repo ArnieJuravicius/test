@@ -1,0 +1,36 @@
+id: 0350a8a7-225e-4cab-bd87-984ff8e34466
+name: Test 2
+project_id: cfd38304-5ec8-45db-8338-6e1c8eac1766
+global_imports: []
+python_global_imports: ''
+r_global_imports: ''
+requirements: []
+linux_packages: []
+environment_variables: []
+is_public: false
+organization_id: f9c6e69a-148f-4d86-85a2-55acebac05c2
+layers:
+- blocks:
+  - auto_size: false
+    canvas_id: 0350a8a7-225e-4cab-bd87-984ff8e34466
+    compute_settings: null
+    description: Prints "hello" to output. Basic Python test block with no variables
+      or dependencies.
+    height: 1000
+    id: 588c48a4-5881-41e6-a311-24d930a7b943
+    layer_id: dac6872c-ff3f-4e80-8dac-ebc76accd749
+    name: python_block
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 1600
+    x: 538
+    y: 606
+  canvas_id: 0350a8a7-225e-4cab-bd87-984ff8e34466
+  edges: []
+  id: dac6872c-ff3f-4e80-8dac-ebc76accd749
+  name: Development
+  type: 1
+assets: []
