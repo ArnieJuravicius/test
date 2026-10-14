@@ -1,0 +1,23 @@
+id: 9eddd52e-ae84-4f9e-899c-2133000d11c7
+name: Development
+type: 1
+canvas_id: 979404fe-1b27-4d04-96ee-79eff1fcdc18
+blocks:
+- auto_size: false
+  canvas_id: 979404fe-1b27-4d04-96ee-79eff1fcdc18
+  compute_settings: null
+  description: This Python block contains placeholder code and has no execution output
+    yet.
+  height: 1000
+  id: 130e5cd0-d40a-46cf-8c5e-ec37c1e231d1
+  layer_id: 9eddd52e-ae84-4f9e-899c-2133000d11c7
+  name: python_block
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 1600
+  x: 0
+  y: 0
+edges: []
